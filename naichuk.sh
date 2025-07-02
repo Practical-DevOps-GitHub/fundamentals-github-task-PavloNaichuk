@@ -1,0 +1,1 @@
+naichuk.sh
