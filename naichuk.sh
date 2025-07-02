@@ -1,1 +1,1 @@
-naichuk.sh
+naichuk_pavlo.sh
